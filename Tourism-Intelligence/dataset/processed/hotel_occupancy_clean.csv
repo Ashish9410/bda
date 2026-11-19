@@ -1,0 +1,7 @@
+date,state,destination,total_rooms,occupied_rooms,occupancy_rate_pct
+2023-01-01,Goa,North Goa,500,410,82.0
+2023-02-01,Goa,North Goa,500,385,77.0
+2023-01-01,Kerala,Kochi,420,315,75.0
+2023-02-01,Kerala,Kochi,420,330,78.57
+2023-01-01,Rajasthan,Jaipur,600,480,80.0
+2023-02-01,Rajasthan,Jaipur,600,450,75.0

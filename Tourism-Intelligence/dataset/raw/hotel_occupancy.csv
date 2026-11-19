@@ -1,0 +1,7 @@
+date,state,destination,total_rooms,occupied_rooms
+2023-01-01,Goa,North Goa,500,410
+2023-02-01,Goa,North Goa,500,385
+2023-01-01,Kerala,Kochi,420,315
+2023-02-01,Kerala,Kochi,420,330
+2023-01-01,Rajasthan,Jaipur,600,480
+2023-02-01,Rajasthan,Jaipur,600,450
